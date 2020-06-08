@@ -1,0 +1,21 @@
+# Remove .project and .classpath files # 
+.project
+.classpath
+.springBeans
+
+# Class Files #
+bin
+
+# Eclipse #
+.settings
+
+# Maven #
+/target/*
+.mvn
+
+# IDEA #
+.idea
+
+/target/
+src/main/resources/application-dev.properties
+SooperExchangeMerchant.iml
