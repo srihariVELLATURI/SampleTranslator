@@ -15,7 +15,3 @@ bin
 
 # IDEA #
 .idea
-
-/target/
-src/main/resources/application-dev.properties
-SooperExchangeMerchant.iml
