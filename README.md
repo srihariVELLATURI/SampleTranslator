@@ -61,11 +61,10 @@ Testing
 -------
 you can test the API's using any tools like postman by passing the JSON data
 
-![Optional Text](..src/main/resources/signup.png)
-![Screenshot](signup.png)
-![Screenshot](signin.png)
+![signin](https://user-images.githubusercontent.com/37467247/84102928-4ec5eb80-aa2f-11ea-9a14-281b7c0add23.PNG)
+![signup](https://user-images.githubusercontent.com/37467247/84102932-4ff71880-aa2f-11ea-9182-238715864923.PNG)
 
 ### Who do I talk to? ###
 
-srihari
-email: vellaturi.srihari92@gmail.com
+*srihari
+*email: vellaturi.srihari92@gmail.com
