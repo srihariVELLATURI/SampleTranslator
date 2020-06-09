@@ -61,8 +61,8 @@ Testing
 -------
 you can test the API's using any tools like postman by passing the JSON data
 
-![Alt text](SampleTranslator/src/main/resources/signup.png?raw=true "Title")
-![Alt text](SampleTranslator/src/main/resources/signin.png?raw=true "Title")
+![Alt text](src/main/resources/signup.png?raw=true "Title")
+![Alt text](src/main/resources/signin.png?raw=true "Title")
 
 ### Who do I talk to? ###
 
