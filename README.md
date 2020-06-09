@@ -61,6 +61,7 @@ Testing
 -------
 you can test the API's using any tools like postman by passing the JSON data
 
+![Optional Text](signup.png)
 ![Screenshot](signup.png)
 ![Screenshot](signin.png)
 
